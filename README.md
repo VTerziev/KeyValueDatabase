@@ -4,6 +4,7 @@ The main operations are:
 - get *key*
 
 # TODO 
-- Add tests
 - Split code in different modules
+- Add tests
 - Fix memory leaks
+- Make the write to file of the root reference persistent 
