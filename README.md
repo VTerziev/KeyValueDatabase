@@ -6,3 +6,4 @@ The main operations are:
 # TODO 
 - Add tests
 - Split code in different modules
+- Fix memory leaks
