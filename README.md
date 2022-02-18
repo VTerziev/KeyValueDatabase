@@ -7,4 +7,4 @@ The main operations are:
 - Split code in different modules
 - Add tests
 - Fix memory leaks
-- Make the write to file of the root reference persistent 
+- Make the write to file of the root reference fault-tolerant 
